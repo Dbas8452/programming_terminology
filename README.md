@@ -5,12 +5,12 @@
 
 **Instructions:** Use the word bank to match the vocabulary words with the appropriate number in the above code segment. 
 
-1.
-2.
-3.
-4.
-5.
-6.
+1. Iteration  
+2. Casting 
+3. Boolean Operator 
+4. Selection 
+5. Comparsion Operator 
+6. 
 7.
 8.
 9.
