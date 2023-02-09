@@ -10,13 +10,13 @@
 3. Boolean Operator 
 4. Selection 
 5. Comparsion Operator 
-6. 
-7.
-8.
-9.
-10.
-11.
-12.
+6. Annotation 
+7. assignmemt Operator 
+8. List 
+9. Arithimetic Operator  
+10. Variable 
+11. String 
+12. string concation
 
 **Word Bank**
 - variable
